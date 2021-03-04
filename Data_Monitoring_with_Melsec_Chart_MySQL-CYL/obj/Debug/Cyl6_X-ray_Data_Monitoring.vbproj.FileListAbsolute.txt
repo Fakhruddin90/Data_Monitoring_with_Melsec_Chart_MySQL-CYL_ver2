@@ -1,0 +1,78 @@
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\bin\Debug\Interop.ActUtlTypeLib.dll
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbprojAssemblyReference.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\Interop.ActUtlTypeLib.dll
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.ResolveComReference.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Form1.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Resources.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.GenerateResource.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.CoreCompileInputs.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe.config
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.xml
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.exe
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.xml
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe.config
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.xml
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Interop.ActUtlTypeLib.dll
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbprojAssemblyReference.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Interop.ActUtlTypeLib.dll
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.ResolveComReference.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Form1.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Resources.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.GenerateResource.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.CoreCompileInputs.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.exe
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.xml
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe.config
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.xml
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbprojAssemblyReference.cache
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.ResolveComReference.cache
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Form1.resources
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Resources.resources
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.GenerateResource.cache
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.CoreCompileInputs.cache
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.exe
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.xml
+E:\Local_Disk_E\Programming\Repositories\17_Projects\Cyl6_X-ray_Data_Monitoring - Copy\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe.config
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.xml
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\bin\Debug\Interop.ActUtlTypeLib.dll
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbprojAssemblyReference.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\Interop.ActUtlTypeLib.dll
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.ResolveComReference.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Form1.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Resources.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.GenerateResource.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.CoreCompileInputs.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.exe
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.xml
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbprojAssemblyReference.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\Interop.ActUtlTypeLib.dll
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.ResolveComReference.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Form1.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Form2.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Form3.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Resources.resources
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.GenerateResource.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.vbproj.CoreCompileInputs.cache
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.exe
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.xml
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe.config
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.exe
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.pdb
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\bin\Debug\Cyl6_X-ray_Data_Monitoring.xml
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\bin\Debug\Interop.ActUtlTypeLib.dll
+F:\Fakhruddin Study\Projects\Cyl6_X-ray_Data_Monitoring---Database2\Cyl6_X-ray_Data_Monitoring\obj\Debug\PLC_PC_Datamonitoring_with_ACT.Form4.resources
